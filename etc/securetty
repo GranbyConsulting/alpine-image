@@ -11,3 +11,7 @@ tty9
 tty10
 tty11
 hvc0
+ttyS0
+ttyS1
+ttyAMA0
+ttyAMA1
